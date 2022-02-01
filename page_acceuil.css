@@ -41,11 +41,21 @@
 
 }
 
-#th10 {
+#th1 {
   background-image: url("ring.png");
   background-repeat: no-repeat;
   background-position: right;
   background-color: black;
+}
+#th2:hover , #th3:hover,#th4:hover,#th5:hover {
+  background-image: url("ring.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-color: black;
+}
+
+#th2 , #th3,#th4,#th5 {
+  background-color: darkred;
 }
 
 #t1 {
